@@ -1,2 +1,2 @@
-# quunito
+# quinito
 Otmo
